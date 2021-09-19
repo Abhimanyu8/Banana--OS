@@ -42,3 +42,4 @@ connect with us, drop a mail, share a fruit ( •̀ ω •́ )✧ We are love in
 [![Linkedin: Avimanyu](https://img.shields.io/badge/-Avimanyu_Dutta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avimanyu-dutta-shell-wizard)](https://www.linkedin.com/in/avimanyu-dutta-shell-wizard/)
 [![Linkedin: Gaurav Kakoti](https://img.shields.io/badge/-Gaurav_Kakoti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaurav-kakoti-8a6223195)](https://www.linkedin.com/in/gaurav-kakoti-8a6223195/)
 [![Twitter: arashi_kiba](https://img.shields.io/twitter/follow/arashi_kiba?style=social)](https://twitter.com/arashi_kiba)
+[![Twitter: IamGauravKakoti](https://img.shields.io/twitter/follow/IamGauravKakoti?style=social)](https://twitter.com/IamGauravKakoti?s=08)
