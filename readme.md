@@ -32,7 +32,7 @@ Banana-OS is a web-based parody of the Apple Mac-os big sur, designed with the o
 
 ![White and Gray Snowy Mountain Minimalist UI Seasonal Desktop Wallpaper](https://user-images.githubusercontent.com/54982599/133915150-7c727cd6-cebc-4227-bf96-3646c725e1dd.png)
 
-This was a simple collabarative weekend project of two young minions, feel free to share, modify, suggest changes, eat a few bananas for your daily potassium and most importantly have fun !
+This was a simple collabarative weekend project of two young minions and an entry to the [Hackodisha Hackathon](https://hackodisha.xyz/), feel free to share, modify, suggest changes, eat a few bananas for your daily potassium and most importantly have fun !
 
 ![Go bananas](https://user-images.githubusercontent.com/54982599/133915468-f59e1324-c07e-4527-9c95-1cd8179a34ff.gif)
 
