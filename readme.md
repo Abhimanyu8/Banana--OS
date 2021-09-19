@@ -31,7 +31,9 @@ Banana-OS is a web-based parody of the Apple Mac-os big sur, designed with the o
 2. Open index.html , press ( `f11` ) and go bananas !
 
 ![White and Gray Snowy Mountain Minimalist UI Seasonal Desktop Wallpaper](https://user-images.githubusercontent.com/54982599/133915150-7c727cd6-cebc-4227-bf96-3646c725e1dd.png)
-________________ 
+
+This was a simple collabarative weekend project of two young minions, feel free to share, modify, suggest changes, eat a few bananas for your daily potassium and most importantly have fun !
+
 ![Go bananas](https://user-images.githubusercontent.com/54982599/133915468-f59e1324-c07e-4527-9c95-1cd8179a34ff.gif)
 
 
