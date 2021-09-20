@@ -27,6 +27,11 @@ Banana-OS is a web-based parody of the Apple Mac-os big sur, designed with the o
 </p>
 
 
+#### Web : 
+
+[Click Here to have a bite of our OS !](https://abhimanyu8.github.io/Banana--OS/)
+
+#### Offline (Recommended) :
 1. Download using the [GitHub .zip download](https://github.com/Abhimanyu8/Banana-os/archive/refs/heads/main.zip) option and unzip .
 2. Open index.html , press ( `f11` ) and go bananas !
 
