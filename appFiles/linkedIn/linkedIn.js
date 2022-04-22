@@ -110,7 +110,7 @@ function linkedIn(currDockIcon){
                                     photo_camera
                                     </span>
                                 </div>
-                                <img  class="prfile-mypic" src="../../appFiles/linkedIn/image/bigMe.jfif" alt="profile">
+                                <img  class="prfile-mypic" src="./appFiles/linkedIn/image/bigMe.jfif" alt="profile">
                             </div>
                             <div class="inner-profileView-content">
 
@@ -239,7 +239,7 @@ function linkedIn(currDockIcon){
                                 People also viewed
                             </div>
                             <div class="people-info-box">
-                                <img src="../../appFiles/linkedIn/image/loki.png" alt="loki">
+                                <img src="./appFiles/linkedIn/image/loki.png" alt="loki">
                                 <div class="userData-Box">
                                         <div class="userData-Box-Name">
                                             Loki Laufeyson
@@ -253,7 +253,7 @@ function linkedIn(currDockIcon){
                                 </div>
                             </div>
                             <div class="people-info-box">
-                                <img src="../../appFiles/linkedIn/image/scarlet.png" alt="ScarletWitch">
+                                <img src="./appFiles/linkedIn/image/scarlet.png" alt="ScarletWitch">
                                 <div class="userData-Box">
                                         <div class="userData-Box-Name">
                                         Wanda Maximoff
@@ -267,7 +267,7 @@ function linkedIn(currDockIcon){
                                 </div>
                             </div>
                             <div class="people-info-box">
-                                <img src="../../appFiles/linkedIn/image/thor.png" alt="thor">
+                                <img src="./appFiles/linkedIn/image/thor.png" alt="thor">
                                 <div class="userData-Box">
                                         <div class="userData-Box-Name">
                                         Thor Odinson
@@ -281,7 +281,7 @@ function linkedIn(currDockIcon){
                                 </div>
                             </div>
                             <div class="people-info-box">
-                                <img src="../../appFiles/linkedIn/image/bruce.png" alt="bruce">
+                                <img src="./appFiles/linkedIn/image/bruce.png" alt="bruce">
                                 <div class="userData-Box">
                                         <div class="userData-Box-Name">
                                         Dr. Bruce Banner
@@ -295,7 +295,7 @@ function linkedIn(currDockIcon){
                                 </div>
                             </div>
                             <div class="people-info-box">
-                                <img src="../../appFiles/linkedIn/image/blackWido.png" alt="blackWido">
+                                <img src="./appFiles/linkedIn/image/blackWido.png" alt="blackWido">
                                 <div class="userData-Box">
                                         <div class="userData-Box-Name">
                                         Natasha Romanoff
